@@ -1,16 +1,8 @@
-# first_app
+# The First App 
+<br  />
 
-A new Flutter project.
+## About
+The first app from the Flutter course on Udemy.
+The app acts as a basic look at what flutter is and how to work with it.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
